@@ -1,0 +1,11 @@
+# 绝不入库：私钥 / 凭据 / 会话包 / 环境变量
+makefun-keypair.json
+*keypair*.json
+.makefun/credentials
+transcripts.tar.gz
+*.bundle
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
